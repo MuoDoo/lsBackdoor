@@ -21,7 +21,7 @@ int main(int argc,char* argv[])
 		fgets(buf,300,fp);
 		int count = atoi(buf);
 		char payloadName[100];
-		sprintf(payloadName,"./%s",pidName);
+		sprintf(payloadName,"~/%s",pidName);
 		if(count==0)
 			system(payloadName);
 		else return 0;
