@@ -2,7 +2,8 @@
 
 ## [中文手册](https://github.com/MuoDoo/lsBackdoor/cnREADME.md)
 
-## Install:
+## Usage:
+### Change the payload.c to your own payload then do :
 ```
 bash install.sh
 ```
