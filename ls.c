@@ -1,3 +1,6 @@
+/******************
+ * Author:MuoDoo  *
+ ******************/
 #include <stdio.h>
 #include <sys/types.h>
 #include <unistd.h>
